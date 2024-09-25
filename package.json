@@ -1,6 +1,6 @@
 {
   "name": "@livebuzzevents/mime-matcher",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Utility function checking if string is mime type from allowed range",
   "main": "dist/mime-matcher.js",
   "scripts": {
