@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/katlasik/mime-matcher.svg?branch=master)](https://travis-ci.org/katlasik/mime-matcher)
+
 MimeMatcher is very simple library for checking if mime type string is in allowed range.
 You can also match mime types agains wildcards, like `*/*` or `'application/*'`
 
