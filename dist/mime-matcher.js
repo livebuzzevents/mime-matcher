@@ -641,7 +641,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 
 
 
-var MIME_TYPE_REGEX = /^(\*|[a-z0-9._\-]+)\/(\*|[a-z0-9._\-]+)(?:; ([a-zA-Z0-9._\-=]+))?$/;
+var MIME_TYPE_REGEX = /^(\*|[a-z0-9._\-]+)\/(\*|[a-z0-9._\-+]+)(?:; ([a-zA-Z0-9._\-=]+))?$/;
 
 function createMatcher(expected) {
   if (expected === '*') {
